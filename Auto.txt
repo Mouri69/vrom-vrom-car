@@ -6,3 +6,4 @@ Add validation for database queries
 Fix bug in API endpoints
 Improve error handling in configuration
 Resolve issue with database queries
+Resolve issue with API endpoints
